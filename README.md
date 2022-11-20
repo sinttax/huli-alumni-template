@@ -1,4 +1,4 @@
-Martin Daru
+# Martin Daru
 
 Welcome to my page, my name is Martin and I'm a fresh alumni of Green Fox Academy. I'm specializing in fullstack and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
